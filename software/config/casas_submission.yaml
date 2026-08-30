@@ -1,0 +1,71 @@
+{
+  "dataset_name": "casas",
+  "mapping_version": "chinook-v2-20260727",
+  "normal_input_dir": "../../adl_noerror",
+  "error_input_dir": "../../adl_error",
+  "output_dir": "../outputs/reproduction/event_logs",
+  "required_columns": ["date", "time", "sensor", "message"],
+  "expected_event_rows": {"sensor": 11584, "room_action": 3166, "room_path": 515},
+  "expected_case_counts": {
+    "normal": {
+      "total": 120,
+      "per_task": {"t1": 24, "t2": 24, "t3": 24, "t4": 24, "t5": 24},
+      "participants": [
+        "p01", "p02", "p03", "p04", "p05", "p06", "p07", "p08",
+        "p09", "p10", "p11", "p12", "p13", "p14", "p15", "p16",
+        "p32", "p40", "p41", "p42", "p43", "p49", "p50", "p51"
+      ]
+    },
+    "scripted_error": {
+      "total": 100,
+      "per_task": {"t1": 20, "t2": 20, "t3": 20, "t4": 20, "t5": 20},
+      "participants": [
+        "p17", "p18", "p20", "p21", "p22", "p23", "p24", "p26",
+        "p27", "p29", "p30", "p31", "p52", "p53", "p54", "p55",
+        "p56", "p57", "p58", "p59"
+      ]
+    }
+  },
+  "excluded_sensors": ["I09"],
+  "item_sensors": {
+    "I01": "oatmeal", "I02": "raisins", "I03": "brown sugar",
+    "I04": "bowl", "I05": "measuring spoon", "I06": "medicine container",
+    "I07": "pot", "I08": "phone book"
+  },
+  "analog_sensors": {
+    "burner": ["AD1-A"],
+    "water": ["AD1-B", "AD1-C"],
+    "activities": {
+      "AD1-A": "Use burner", "AD1-B": "Use hot water", "AD1-C": "Use cold water"
+    },
+    "room_action_activities": {
+      "AD1-A": "Use burner",
+      "AD1-B": "Use kitchen sink water",
+      "AD1-C": "Use kitchen sink water"
+    }
+  },
+  "motion_rooms": {
+    "M01": "dining room", "M02": "dining room", "M03": "dining room",
+    "M04": "dining room", "M05": "dining room", "M06": "dining room",
+    "M07": "dining room", "M08": "dining room", "M09": "dining room",
+    "M10": "dining room", "M11": "dining room", "M12": "dining room",
+    "M13": "dining room", "M14": "dining room", "M15": "dining room",
+    "M16": "kitchen", "M17": "kitchen", "M18": "kitchen",
+    "M19": "corridor", "M20": "adjacent room", "M21": "corridor",
+    "M22": "corridor", "M23": "corridor", "M24": "corridor",
+    "M25": "corridor", "M26": "stairs"
+  },
+  "action_rooms": {
+    "AD1-A": "kitchen", "AD1-B": "kitchen", "AD1-C": "kitchen",
+    "D01": "kitchen", "I01": "kitchen", "I02": "kitchen",
+    "I03": "kitchen", "I04": "kitchen", "I05": "kitchen",
+    "I06": "kitchen", "I07": "kitchen", "I08": "dining room",
+    "ASTERISK": "dining room"
+  },
+  "error_rules": {
+    "t1": "Phone call error", "t2": "Hand washing error",
+    "t3": "Cooking error", "t4": "Medicine error", "t5": "Cleaning error"
+  },
+  "bursty_actions": ["Use kitchen sink water", "Use burner"],
+  "bursty_action_cooldown_seconds": 30
+}

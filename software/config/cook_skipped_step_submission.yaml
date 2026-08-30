@@ -1,0 +1,14 @@
+{
+  "schema": "sensor2disco.cook-skipped-step-evaluation.v1",
+  "dataset_config": "casas_submission.yaml",
+  "output_dir": "../outputs/reproduction/cook_skipped_step",
+  "random_seed": 20260810,
+  "feature_contract": {"analog_delta_threshold": 0.01},
+  "outer_protocol": {
+    "folds": 5,
+    "group": "participant",
+    "training_data": "normal outer-training cases only",
+    "evaluation_labels_attached": "after prediction"
+  },
+  "detector": {"standard_deviations": 2.0, "minimum_prevalence": 0.8}
+}

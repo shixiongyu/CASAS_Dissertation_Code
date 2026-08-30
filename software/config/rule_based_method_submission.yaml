@@ -1,0 +1,18 @@
+{
+  "schema": "sensor2disco.rule-based-evaluation.v1",
+  "dataset_config": "casas_submission.yaml",
+  "output_dir": "../outputs/reproduction/rule_based_method",
+  "random_seed": 20260810,
+  "outer_protocol": {
+    "folds": 5,
+    "group": "participant",
+    "threshold_training_data": "normal outer-training cases only",
+    "evaluation_labels_attached": "after prediction"
+  },
+  "calibration": {
+    "quantile_method": "linear",
+    "minimum_normal_evidence_cases": 15,
+    "minimum_use_amplitude_quantile": 0.05,
+    "terminal_residual_upper_quantile": 0.95
+  }
+}

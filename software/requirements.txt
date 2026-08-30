@@ -1,0 +1,4 @@
+# Python 3.11 or newer is required.
+pandas==2.3.3
+numpy==2.4.4
+scikit-learn==1.9.0

@@ -1,0 +1,516 @@
+﻿Case ID,Task ID,Condition,Timestamp,Activity,Room,Original Activity,Event Type,Sensor,Message,Source File,Source Data Type
+error_p17_t1,t1,scripted_error,2008-03-28T13:39:01.470516,dining room,dining room,Enter dining room,activity,M01,ON,adl_error/p17.t1.csv,error_trace
+error_p17_t1,t1,scripted_error,2008-03-28T13:39:01.470516,corridor,corridor,Move from dining room to corridor,activity,M23,ON,adl_error/p17.t1.csv,error_trace
+error_p17_t1,t1,scripted_error,2008-03-28T13:39:02.558202,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_error/p17.t1.csv,error_trace
+error_p17_t2,t2,scripted_error,2008-03-28T13:41:34.469885,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p17.t2.csv,error_trace
+error_p17_t2,t2,scripted_error,2008-03-28T13:41:35.914550,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p17.t2.csv,error_trace
+error_p17_t3,t3,scripted_error,2008-03-28T13:42:40.467418,kitchen,kitchen,Enter kitchen,activity,M18,ON,adl_error/p17.t3.csv,error_trace
+error_p17_t4,t4,scripted_error,2008-03-28T13:50:01.519226,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p17.t4.csv,error_trace
+error_p17_t4,t4,scripted_error,2008-03-28T13:50:33.618530,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p17.t4.csv,error_trace
+error_p17_t5,t5,scripted_error,2008-03-28T13:59:34.465264,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p17.t5.csv,error_trace
+error_p17_t5,t5,scripted_error,2008-03-28T13:59:42.720502,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p17.t5.csv,error_trace
+error_p18_t1,t1,scripted_error,2008-04-03T10:55:01.550203,dining room,dining room,Enter dining room,activity,M07,ON,adl_error/p18.t1.csv,error_trace
+error_p18_t2,t2,scripted_error,2008-04-03T10:57:29.804504,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p18.t2.csv,error_trace
+error_p18_t2,t2,scripted_error,2008-04-03T10:57:34.203353,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p18.t2.csv,error_trace
+error_p18_t2,t2,scripted_error,2008-04-03T10:57:34.507280,dining room,dining room,Move from kitchen to dining room,activity,M13,ON,adl_error/p18.t2.csv,error_trace
+error_p18_t2,t2,scripted_error,2008-04-03T10:57:35.759856,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p18.t2.csv,error_trace
+error_p18_t3,t3,scripted_error,2008-04-03T10:59:08.819464,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p18.t3.csv,error_trace
+error_p18_t4,t4,scripted_error,2008-04-03T11:05:18.240560,kitchen,kitchen,Use kitchen sink water,activity,AD1-B,0.0505867,adl_error/p18.t4.csv,error_trace
+error_p18_t4,t4,scripted_error,2008-04-03T11:05:34.686970,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p18.t4.csv,error_trace
+error_p18_t5,t5,scripted_error,2008-04-03T11:08:35.858715,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p18.t5.csv,error_trace
+error_p18_t5,t5,scripted_error,2008-04-03T11:08:44.376374,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p18.t5.csv,error_trace
+error_p20_t1,t1,scripted_error,2008-04-04T12:31:59.786012,dining room,dining room,Enter dining room,activity,M07,ON,adl_error/p20.t1.csv,error_trace
+error_p20_t2,t2,scripted_error,2008-04-04T12:35:02.226475,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p20.t2.csv,error_trace
+error_p20_t2,t2,scripted_error,2008-04-04T12:35:04.689817,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p20.t2.csv,error_trace
+error_p20_t3,t3,scripted_error,2008-04-04T12:36:06.502879,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p20.t3.csv,error_trace
+error_p20_t4,t4,scripted_error,2008-04-04T12:43:21.238770,kitchen,kitchen,Use kitchen sink water,activity,AD1-C,0.435397,adl_error/p20.t4.csv,error_trace
+error_p20_t4,t4,scripted_error,2008-04-04T12:43:34.471869,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p20.t4.csv,error_trace
+error_p20_t5,t5,scripted_error,2008-04-04T12:45:42.828031,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p20.t5.csv,error_trace
+error_p20_t5,t5,scripted_error,2008-04-04T12:45:57.417900,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p20.t5.csv,error_trace
+error_p21_t1,t1,scripted_error,2008-04-04T13:36:37.583375,dining room,dining room,Enter dining room,activity,M01,ON,adl_error/p21.t1.csv,error_trace
+error_p21_t1,t1,scripted_error,2008-04-04T13:36:37.649200,corridor,corridor,Move from dining room to corridor,activity,M23,ON,adl_error/p21.t1.csv,error_trace
+error_p21_t1,t1,scripted_error,2008-04-04T13:36:38.726109,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_error/p21.t1.csv,error_trace
+error_p21_t2,t2,scripted_error,2008-04-04T13:40:28.339168,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p21.t2.csv,error_trace
+error_p21_t2,t2,scripted_error,2008-04-04T13:40:37.863670,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p21.t2.csv,error_trace
+error_p21_t3,t3,scripted_error,2008-04-04T13:41:21.954982,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p21.t3.csv,error_trace
+error_p21_t4,t4,scripted_error,2008-04-04T13:50:21.562912,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p21.t4.csv,error_trace
+error_p21_t4,t4,scripted_error,2008-04-04T13:50:40.726198,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p21.t4.csv,error_trace
+error_p21_t5,t5,scripted_error,2008-04-04T13:52:25.836804,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p21.t5.csv,error_trace
+error_p21_t5,t5,scripted_error,2008-04-04T13:52:35.837600,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p21.t5.csv,error_trace
+error_p22_t1,t1,scripted_error,2008-04-04T15:09:41.923043,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p22.t1.csv,error_trace
+error_p22_t1,t1,scripted_error,2008-04-04T15:09:41.923043,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p22.t1.csv,error_trace
+error_p22_t2,t2,scripted_error,2008-04-04T15:12:33.518518,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p22.t2.csv,error_trace
+error_p22_t2,t2,scripted_error,2008-04-04T15:12:37.977273,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p22.t2.csv,error_trace
+error_p22_t3,t3,scripted_error,2008-04-04T15:13:49.328565,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p22.t3.csv,error_trace
+error_p22_t4,t4,scripted_error,2008-04-04T15:19:30.587402,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p22.t4.csv,error_trace
+error_p22_t4,t4,scripted_error,2008-04-04T15:19:55.338322,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p22.t4.csv,error_trace
+error_p22_t5,t5,scripted_error,2008-04-04T15:20:41.826823,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p22.t5.csv,error_trace
+error_p22_t5,t5,scripted_error,2008-04-04T15:20:46.166742,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p22.t5.csv,error_trace
+error_p23_t1,t1,scripted_error,2008-04-08T13:33:01.425488,dining room,dining room,Enter dining room,activity,M07,ON,adl_error/p23.t1.csv,error_trace
+error_p23_t2,t2,scripted_error,2008-04-08T13:35:26.164564,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p23.t2.csv,error_trace
+error_p23_t2,t2,scripted_error,2008-04-08T13:35:28.201141,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p23.t2.csv,error_trace
+error_p23_t3,t3,scripted_error,2008-04-08T13:36:26.805131,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p23.t3.csv,error_trace
+error_p23_t4,t4,scripted_error,2008-04-08T13:41:40.624172,kitchen,kitchen,Close kitchen cabinet,activity,D01,CLOSE,adl_error/p23.t4.csv,error_trace
+error_p23_t4,t4,scripted_error,2008-04-08T13:42:19.670201,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p23.t4.csv,error_trace
+error_p23_t4,t4,scripted_error,2008-04-08T13:42:48.219810,kitchen,kitchen,Use burner,activity,AD1-A,2.83317,adl_error/p23.t4.csv,error_trace
+error_p23_t4,t4,scripted_error,2008-04-08T13:42:49.643615,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_error/p23.t4.csv,error_trace
+error_p23_t5,t5,scripted_error,2008-04-08T13:43:22.604608,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p23.t5.csv,error_trace
+error_p23_t5,t5,scripted_error,2008-04-08T13:43:26.954025,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p23.t5.csv,error_trace
+error_p24_t1,t1,scripted_error,2008-04-10T09:33:01.293865,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p24.t1.csv,error_trace
+error_p24_t1,t1,scripted_error,2008-04-10T09:33:01.613745,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p24.t1.csv,error_trace
+error_p24_t2,t2,scripted_error,2008-04-10T09:42:10.431269,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p24.t2.csv,error_trace
+error_p24_t2,t2,scripted_error,2008-04-10T09:42:12.922740,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p24.t2.csv,error_trace
+error_p24_t2,t2,scripted_error,2008-04-10T09:43:09.552615,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p24.t2.csv,error_trace
+error_p24_t2,t2,scripted_error,2008-04-10T09:43:27.759073,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p24.t2.csv,error_trace
+error_p24_t2,t2,scripted_error,2008-04-10T09:43:35.938316,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p24.t2.csv,error_trace
+error_p24_t2,t2,scripted_error,2008-04-10T09:43:44.379422,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p24.t2.csv,error_trace
+error_p24_t2,t2,scripted_error,2008-04-10T09:43:44.903475,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p24.t2.csv,error_trace
+error_p24_t3,t3,scripted_error,2008-04-10T09:44:22.567205,dining room,dining room,Enter dining room,activity,M15,ON,adl_error/p24.t3.csv,error_trace
+error_p24_t3,t3,scripted_error,2008-04-10T09:44:23.159042,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p24.t3.csv,error_trace
+error_p24_t4,t4,scripted_error,2008-04-10T09:50:21.814990,kitchen,kitchen,Use burner,activity,AD1-A,2.84497,adl_error/p24.t4.csv,error_trace
+error_p24_t4,t4,scripted_error,2008-04-10T09:50:55.343135,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p24.t4.csv,error_trace
+error_p24_t4,t4,scripted_error,2008-04-10T09:50:55.561310,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p24.t4.csv,error_trace
+error_p24_t4,t4,scripted_error,2008-04-10T09:50:56.140842,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_error/p24.t4.csv,error_trace
+error_p24_t4,t4,scripted_error,2008-04-10T09:50:58.254235,kitchen,kitchen,Move within kitchen,activity,M16,ON,adl_error/p24.t4.csv,error_trace
+error_p24_t4,t4,scripted_error,2008-04-10T09:51:05.948273,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p24.t4.csv,error_trace
+error_p24_t5,t5,scripted_error,2008-04-10T09:54:48.536336,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p24.t5.csv,error_trace
+error_p24_t5,t5,scripted_error,2008-04-10T09:54:54.688708,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p24.t5.csv,error_trace
+error_p24_t5,t5,scripted_error,2008-04-10T09:54:54.688708,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p24.t5.csv,error_trace
+error_p24_t5,t5,scripted_error,2008-04-10T09:54:56.141547,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p24.t5.csv,error_trace
+error_p24_t5,t5,scripted_error,2008-04-10T09:54:58.624165,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_error/p24.t5.csv,error_trace
+error_p24_t5,t5,scripted_error,2008-04-10T09:55:01.332414,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p24.t5.csv,error_trace
+error_p24_t5,t5,scripted_error,2008-04-10T09:55:39.721353,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p24.t5.csv,error_trace
+error_p26_t1,t1,scripted_error,2008-04-11T11:11:15.251940,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p26.t1.csv,error_trace
+error_p26_t1,t1,scripted_error,2008-04-11T11:11:15.415034,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p26.t1.csv,error_trace
+error_p26_t2,t2,scripted_error,2008-04-11T11:14:37.977097,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p26.t2.csv,error_trace
+error_p26_t2,t2,scripted_error,2008-04-11T11:14:42.791214,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p26.t2.csv,error_trace
+error_p26_t3,t3,scripted_error,2008-04-11T11:15:50.995448,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p26.t3.csv,error_trace
+error_p26_t3,t3,scripted_error,2008-04-11T11:16:25.582112,dining room,dining room,Move from kitchen to dining room,activity,M10,ON,adl_error/p26.t3.csv,error_trace
+error_p26_t3,t3,scripted_error,2008-04-11T11:16:27.969588,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p26.t3.csv,error_trace
+error_p26_t4,t4,scripted_error,2008-04-11T11:21:08.251198,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p26.t4.csv,error_trace
+error_p26_t4,t4,scripted_error,2008-04-11T11:21:24.726988,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p26.t4.csv,error_trace
+error_p26_t5,t5,scripted_error,2008-04-11T11:22:44.182222,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p26.t5.csv,error_trace
+error_p26_t5,t5,scripted_error,2008-04-11T11:22:52.518882,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p26.t5.csv,error_trace
+error_p27_t1,t1,scripted_error,2008-04-15T09:40:24.333931,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p27.t1.csv,error_trace
+error_p27_t1,t1,scripted_error,2008-04-15T09:40:24.903767,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_error/p27.t1.csv,error_trace
+error_p27_t2,t2,scripted_error,2008-04-15T09:43:29.924123,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p27.t2.csv,error_trace
+error_p27_t2,t2,scripted_error,2008-04-15T09:43:34.739985,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p27.t2.csv,error_trace
+error_p27_t3,t3,scripted_error,2008-04-15T09:45:34.579426,kitchen,kitchen,Take pot,activity,I07,ABSENT,adl_error/p27.t3.csv,error_trace
+error_p27_t4,t4,scripted_error,2008-04-15T09:52:51.995680,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p27.t4.csv,error_trace
+error_p27_t4,t4,scripted_error,2008-04-15T09:53:08.481897,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p27.t4.csv,error_trace
+error_p27_t4,t4,scripted_error,2008-04-15T09:53:09.642651,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p27.t4.csv,error_trace
+error_p27_t4,t4,scripted_error,2008-04-15T09:53:10.830253,dining room,dining room,Move from kitchen to dining room,activity,M13,ON,adl_error/p27.t4.csv,error_trace
+error_p27_t5,t5,scripted_error,2008-04-15T09:57:57.138780,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p27.t5.csv,error_trace
+error_p27_t5,t5,scripted_error,2008-04-15T09:58:05.592944,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p27.t5.csv,error_trace
+error_p29_t1,t1,scripted_error,2008-04-15T12:16:33.385273,dining room,dining room,Enter dining room,activity,M01,ON,adl_error/p29.t1.csv,error_trace
+error_p29_t1,t1,scripted_error,2008-04-15T12:16:33.654200,corridor,corridor,Move from dining room to corridor,activity,M23,ON,adl_error/p29.t1.csv,error_trace
+error_p29_t1,t1,scripted_error,2008-04-15T12:16:34.506017,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_error/p29.t1.csv,error_trace
+error_p29_t2,t2,scripted_error,2008-04-15T12:19:31.974604,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p29.t2.csv,error_trace
+error_p29_t2,t2,scripted_error,2008-04-15T12:19:33.670221,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p29.t2.csv,error_trace
+error_p29_t3,t3,scripted_error,2008-04-15T12:20:59.450962,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p29.t3.csv,error_trace
+error_p29_t4,t4,scripted_error,2008-04-15T12:30:03.121847,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p29.t4.csv,error_trace
+error_p29_t4,t4,scripted_error,2008-04-15T12:30:33.473316,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p29.t4.csv,error_trace
+error_p29_t4,t4,scripted_error,2008-04-15T12:30:33.934110,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p29.t4.csv,error_trace
+error_p29_t4,t4,scripted_error,2008-04-15T12:30:34.516056,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_error/p29.t4.csv,error_trace
+error_p29_t4,t4,scripted_error,2008-04-15T12:30:49.726800,kitchen,kitchen,Use burner,activity,AD1-A,2.82145,adl_error/p29.t4.csv,error_trace
+error_p29_t4,t4,scripted_error,2008-04-15T12:30:56.222578,dining room,dining room,Move from kitchen to dining room,activity,M13,ON,adl_error/p29.t4.csv,error_trace
+error_p29_t5,t5,scripted_error,2008-04-15T12:31:18.717529,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p29.t5.csv,error_trace
+error_p29_t5,t5,scripted_error,2008-04-15T12:31:25.575051,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p29.t5.csv,error_trace
+error_p30_t1,t1,scripted_error,2008-04-15T13:29:41.365840,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p30.t1.csv,error_trace
+error_p30_t1,t1,scripted_error,2008-04-15T13:29:41.610422,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p30.t1.csv,error_trace
+error_p30_t2,t2,scripted_error,2008-04-15T13:32:11.934640,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p30.t2.csv,error_trace
+error_p30_t2,t2,scripted_error,2008-04-15T13:32:16.645064,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p30.t2.csv,error_trace
+error_p30_t3,t3,scripted_error,2008-04-15T13:33:15.817906,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p30.t3.csv,error_trace
+error_p30_t4,t4,scripted_error,2008-04-15T13:39:51.904463,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p30.t4.csv,error_trace
+error_p30_t4,t4,scripted_error,2008-04-15T13:40:05.106739,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p30.t4.csv,error_trace
+error_p30_t4,t4,scripted_error,2008-04-15T13:40:09.592146,kitchen,kitchen,Move within kitchen,activity,M17,ON,adl_error/p30.t4.csv,error_trace
+error_p30_t4,t4,scripted_error,2008-04-15T13:40:16.649537,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p30.t4.csv,error_trace
+error_p30_t5,t5,scripted_error,2008-04-15T13:40:59.329148,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p30.t5.csv,error_trace
+error_p30_t5,t5,scripted_error,2008-04-15T13:41:08.508641,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p30.t5.csv,error_trace
+error_p31_t1,t1,scripted_error,2008-04-15T16:06:04.803936,dining room,dining room,Enter dining room,activity,M01,ON,adl_error/p31.t1.csv,error_trace
+error_p31_t2,t2,scripted_error,2008-04-15T16:08:36.731478,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p31.t2.csv,error_trace
+error_p31_t2,t2,scripted_error,2008-04-15T16:08:37.862265,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p31.t2.csv,error_trace
+error_p31_t3,t3,scripted_error,2008-04-15T16:09:40.611776,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p31.t3.csv,error_trace
+error_p31_t4,t4,scripted_error,2008-04-15T16:19:15.600077,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p31.t4.csv,error_trace
+error_p31_t4,t4,scripted_error,2008-04-15T16:19:34.881340,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p31.t4.csv,error_trace
+error_p31_t5,t5,scripted_error,2008-04-15T16:20:13.659214,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p31.t5.csv,error_trace
+error_p31_t5,t5,scripted_error,2008-04-15T16:20:22.664708,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p31.t5.csv,error_trace
+error_p52_t1,t1,scripted_error,2008-06-04T09:03:27.535946,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p52.t1.csv,error_trace
+error_p52_t1,t1,scripted_error,2008-06-04T09:03:27.535946,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p52.t1.csv,error_trace
+error_p52_t2,t2,scripted_error,2008-06-04T09:10:44.535440,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p52.t2.csv,error_trace
+error_p52_t2,t2,scripted_error,2008-06-04T09:10:50.487106,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p52.t2.csv,error_trace
+error_p52_t2,t2,scripted_error,2008-06-04T09:10:50.572750,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p52.t2.csv,error_trace
+error_p52_t2,t2,scripted_error,2008-06-04T09:10:51.788763,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p52.t2.csv,error_trace
+error_p52_t3,t3,scripted_error,2008-06-04T09:12:05.561382,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p52.t3.csv,error_trace
+error_p52_t4,t4,scripted_error,2008-06-04T09:19:23.152890,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p52.t4.csv,error_trace
+error_p52_t4,t4,scripted_error,2008-06-04T09:19:36.456806,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p52.t4.csv,error_trace
+error_p52_t4,t4,scripted_error,2008-06-04T09:19:40.418900,kitchen,kitchen,Use burner,activity,AD1-A,2.83332,adl_error/p52.t4.csv,error_trace
+error_p52_t4,t4,scripted_error,2008-06-04T09:23:13.836062,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_error/p52.t4.csv,error_trace
+error_p52_t5,t5,scripted_error,2008-06-04T09:25:02.928795,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p52.t5.csv,error_trace
+error_p52_t5,t5,scripted_error,2008-06-04T09:25:11.295681,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p52.t5.csv,error_trace
+error_p53_t1,t1,scripted_error,2008-06-04T10:17:13.587553,dining room,dining room,Enter dining room,activity,M01,ON,adl_error/p53.t1.csv,error_trace
+error_p53_t2,t2,scripted_error,2008-06-04T10:21:30.350690,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p53.t2.csv,error_trace
+error_p53_t2,t2,scripted_error,2008-06-04T10:21:46.222588,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p53.t2.csv,error_trace
+error_p53_t3,t3,scripted_error,2008-06-04T10:23:31.499037,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p53.t3.csv,error_trace
+error_p53_t4,t4,scripted_error,2008-06-04T10:31:23.780228,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p53.t4.csv,error_trace
+error_p53_t4,t4,scripted_error,2008-06-04T10:31:46.947347,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p53.t4.csv,error_trace
+error_p53_t5,t5,scripted_error,2008-06-04T10:38:22.866969,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p53.t5.csv,error_trace
+error_p53_t5,t5,scripted_error,2008-06-04T10:38:34.573134,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p53.t5.csv,error_trace
+error_p53_t5,t5,scripted_error,2008-06-04T10:38:34.573134,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p53.t5.csv,error_trace
+error_p53_t5,t5,scripted_error,2008-06-04T10:38:35.871744,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p53.t5.csv,error_trace
+error_p54_t1,t1,scripted_error,2008-06-04T12:47:03.603938,dining room,dining room,Enter dining room,activity,M01,ON,adl_error/p54.t1.csv,error_trace
+error_p54_t2,t2,scripted_error,2008-06-04T12:49:05.807146,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p54.t2.csv,error_trace
+error_p54_t2,t2,scripted_error,2008-06-04T12:49:11.530799,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p54.t2.csv,error_trace
+error_p54_t3,t3,scripted_error,2008-06-04T12:50:31.991725,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p54.t3.csv,error_trace
+error_p54_t4,t4,scripted_error,2008-06-04T12:56:03.740279,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p54.t4.csv,error_trace
+error_p54_t4,t4,scripted_error,2008-06-04T12:56:42.444228,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p54.t4.csv,error_trace
+error_p54_t5,t5,scripted_error,2008-06-04T12:57:34.513973,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p54.t5.csv,error_trace
+error_p54_t5,t5,scripted_error,2008-06-04T12:57:47.881232,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p54.t5.csv,error_trace
+error_p54_t5,t5,scripted_error,2008-06-04T12:57:58.711500,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p54.t5.csv,error_trace
+error_p54_t5,t5,scripted_error,2008-06-04T12:58:04.930417,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p54.t5.csv,error_trace
+error_p55_t1,t1,scripted_error,2008-06-04T14:00:33.690317,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p55.t1.csv,error_trace
+error_p55_t1,t1,scripted_error,2008-06-04T14:00:34.637011,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p55.t1.csv,error_trace
+error_p55_t2,t2,scripted_error,2008-06-04T14:02:06.845859,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p55.t2.csv,error_trace
+error_p55_t2,t2,scripted_error,2008-06-04T14:02:10.149380,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p55.t2.csv,error_trace
+error_p55_t3,t3,scripted_error,2008-06-04T14:03:13.556019,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p55.t3.csv,error_trace
+error_p55_t4,t4,scripted_error,2008-06-04T14:08:53.971041,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p55.t4.csv,error_trace
+error_p55_t4,t4,scripted_error,2008-06-04T14:09:06.384425,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p55.t4.csv,error_trace
+error_p55_t4,t4,scripted_error,2008-06-04T14:09:06.674760,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p55.t4.csv,error_trace
+error_p55_t4,t4,scripted_error,2008-06-04T14:09:07.504144,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_error/p55.t4.csv,error_trace
+error_p55_t5,t5,scripted_error,2008-06-04T14:11:35.550001,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p55.t5.csv,error_trace
+error_p55_t5,t5,scripted_error,2008-06-04T14:11:40.357130,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p55.t5.csv,error_trace
+error_p56_t1,t1,scripted_error,2008-06-09T10:14:44.408070,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p56.t1.csv,error_trace
+error_p56_t1,t1,scripted_error,2008-06-09T10:14:45.399873,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_error/p56.t1.csv,error_trace
+error_p56_t2,t2,scripted_error,2008-06-09T10:20:24.485321,kitchen,kitchen,Enter kitchen,activity,M16,ON,adl_error/p56.t2.csv,error_trace
+error_p56_t2,t2,scripted_error,2008-06-09T10:20:24.854070,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p56.t2.csv,error_trace
+error_p56_t2,t2,scripted_error,2008-06-09T10:20:25.605048,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p56.t2.csv,error_trace
+error_p56_t3,t3,scripted_error,2008-06-09T10:21:45.759804,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p56.t3.csv,error_trace
+error_p56_t3,t3,scripted_error,2008-06-09T10:35:54.607193,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_error/p56.t3.csv,error_trace
+error_p56_t3,t3,scripted_error,2008-06-09T10:35:58.555082,kitchen,kitchen,Move within kitchen,activity,M16,ON,adl_error/p56.t3.csv,error_trace
+error_p56_t3,t3,scripted_error,2008-06-09T10:35:58.555082,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p56.t3.csv,error_trace
+error_p56_t3,t3,scripted_error,2008-06-09T10:36:01.554240,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p56.t3.csv,error_trace
+error_p56_t4,t4,scripted_error,2008-06-09T10:36:49.737242,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p56.t4.csv,error_trace
+error_p56_t4,t4,scripted_error,2008-06-09T10:37:16.540230,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p56.t4.csv,error_trace
+error_p56_t4,t4,scripted_error,2008-06-09T10:37:27.579868,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p56.t4.csv,error_trace
+error_p56_t4,t4,scripted_error,2008-06-09T10:37:31.705322,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p56.t4.csv,error_trace
+error_p56_t5,t5,scripted_error,2008-06-09T10:38:14.108404,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p56.t5.csv,error_trace
+error_p56_t5,t5,scripted_error,2008-06-09T10:38:15.273097,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p56.t5.csv,error_trace
+error_p56_t5,t5,scripted_error,2008-06-09T10:38:20.410746,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p56.t5.csv,error_trace
+error_p56_t5,t5,scripted_error,2008-06-09T10:38:26.698120,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p56.t5.csv,error_trace
+error_p57_t1,t1,scripted_error,2008-06-09T11:14:15.506790,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p57.t1.csv,error_trace
+error_p57_t1,t1,scripted_error,2008-06-09T11:14:15.507487,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p57.t1.csv,error_trace
+error_p57_t2,t2,scripted_error,2008-06-09T11:18:41.343660,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p57.t2.csv,error_trace
+error_p57_t2,t2,scripted_error,2008-06-09T11:18:46.707540,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p57.t2.csv,error_trace
+error_p57_t3,t3,scripted_error,2008-06-09T11:19:33.640021,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p57.t3.csv,error_trace
+error_p57_t4,t4,scripted_error,2008-06-09T11:24:31.605388,kitchen,kitchen,Take brown sugar,activity,I03,ABSENT,adl_error/p57.t4.csv,error_trace
+error_p57_t4,t4,scripted_error,2008-06-09T11:24:43.814293,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p57.t4.csv,error_trace
+error_p57_t5,t5,scripted_error,2008-06-09T11:25:51.827965,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p57.t5.csv,error_trace
+error_p57_t5,t5,scripted_error,2008-06-09T11:26:01.909577,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p57.t5.csv,error_trace
+error_p58_t1,t1,scripted_error,2008-06-09T14:07:36.275567,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p58.t1.csv,error_trace
+error_p58_t1,t1,scripted_error,2008-06-09T14:07:36.751437,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p58.t1.csv,error_trace
+error_p58_t2,t2,scripted_error,2008-06-09T14:10:34.763139,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p58.t2.csv,error_trace
+error_p58_t2,t2,scripted_error,2008-06-09T14:10:46.834603,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p58.t2.csv,error_trace
+error_p58_t3,t3,scripted_error,2008-06-09T14:11:28.601700,kitchen,kitchen,Use kitchen sink water,activity,AD1-B,0.50282,adl_error/p58.t3.csv,error_trace
+error_p58_t4,t4,scripted_error,2008-06-09T14:21:14.138155,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p58.t4.csv,error_trace
+error_p58_t4,t4,scripted_error,2008-06-09T14:21:39.695347,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p58.t4.csv,error_trace
+error_p58_t5,t5,scripted_error,2008-06-09T14:22:21.822736,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p58.t5.csv,error_trace
+error_p58_t5,t5,scripted_error,2008-06-09T14:22:34.867116,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p58.t5.csv,error_trace
+error_p59_t1,t1,scripted_error,2008-06-09T14:33:22.533578,corridor,corridor,Enter corridor,activity,M23,ON,adl_error/p59.t1.csv,error_trace
+error_p59_t1,t1,scripted_error,2008-06-09T14:33:22.533578,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_error/p59.t1.csv,error_trace
+error_p59_t2,t2,scripted_error,2008-06-09T14:35:28.556187,dining room,dining room,Enter dining room,activity,M14,ON,adl_error/p59.t2.csv,error_trace
+error_p59_t2,t2,scripted_error,2008-06-09T14:35:31.549074,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p59.t2.csv,error_trace
+error_p59_t2,t2,scripted_error,2008-06-09T14:35:31.549074,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p59.t2.csv,error_trace
+error_p59_t2,t2,scripted_error,2008-06-09T14:35:32.584733,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_error/p59.t2.csv,error_trace
+error_p59_t3,t3,scripted_error,2008-06-09T14:36:36.327685,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_error/p59.t3.csv,error_trace
+error_p59_t4,t4,scripted_error,2008-06-09T14:43:27.628734,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_error/p59.t4.csv,error_trace
+error_p59_t4,t4,scripted_error,2008-06-09T14:43:40.519963,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_error/p59.t4.csv,error_trace
+error_p59_t5,t5,scripted_error,2008-06-09T14:44:18.582242,dining room,dining room,Enter dining room,activity,M13,ON,adl_error/p59.t5.csv,error_trace
+error_p59_t5,t5,scripted_error,2008-06-09T14:44:27.972957,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_error/p59.t5.csv,error_trace
+normal_p01_t1,t1,normal,2008-02-27T12:43:27.416392,dining room,dining room,Enter dining room,activity,M08,ON,adl_noerror/p01.t1.csv,normal
+normal_p01_t2,t2,normal,2008-02-27T12:49:52.624433,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p01.t2.csv,normal
+normal_p01_t2,t2,normal,2008-02-27T12:49:54.240040,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p01.t2.csv,normal
+normal_p01_t3,t3,normal,2008-02-27T12:50:43.533263,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p01.t3.csv,normal
+normal_p01_t4,t4,normal,2008-02-27T12:59:00.988738,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p01.t4.csv,normal
+normal_p01_t4,t4,normal,2008-02-27T12:59:21.378630,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p01.t4.csv,normal
+normal_p01_t4,t4,normal,2008-02-27T12:59:23.787940,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_noerror/p01.t4.csv,normal
+normal_p01_t4,t4,normal,2008-02-27T12:59:38.537703,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p01.t4.csv,normal
+normal_p01_t4,t4,normal,2008-02-27T12:59:38.585900,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p01.t4.csv,normal
+normal_p01_t4,t4,normal,2008-02-27T12:59:39.229506,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p01.t4.csv,normal
+normal_p01_t5,t5,normal,2008-02-27T13:01:57.657831,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p01.t5.csv,normal
+normal_p01_t5,t5,normal,2008-02-27T13:02:27.654590,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p01.t5.csv,normal
+normal_p02_t1,t1,normal,2008-02-29T12:50:03.649200,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p02.t1.csv,normal
+normal_p02_t1,t1,normal,2008-02-29T12:50:04.548539,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_noerror/p02.t1.csv,normal
+normal_p02_t2,t2,normal,2008-02-29T12:51:58.605865,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p02.t2.csv,normal
+normal_p02_t2,t2,normal,2008-02-29T12:52:14.149673,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p02.t2.csv,normal
+normal_p02_t3,t3,normal,2008-02-29T12:53:14.516401,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p02.t3.csv,normal
+normal_p02_t4,t4,normal,2008-02-29T13:00:13.519942,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p02.t4.csv,normal
+normal_p02_t4,t4,normal,2008-02-29T13:00:47.883625,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p02.t4.csv,normal
+normal_p02_t5,t5,normal,2008-02-29T13:01:49.566998,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p02.t5.csv,normal
+normal_p02_t5,t5,normal,2008-02-29T13:01:54.298335,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p02.t5.csv,normal
+normal_p03_t1,t1,normal,2008-02-29T13:21:28.490007,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p03.t1.csv,normal
+normal_p03_t1,t1,normal,2008-02-29T13:21:28.616031,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p03.t1.csv,normal
+normal_p03_t2,t2,normal,2008-02-29T13:23:49.819614,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p03.t2.csv,normal
+normal_p03_t2,t2,normal,2008-02-29T13:23:51.432171,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p03.t2.csv,normal
+normal_p03_t3,t3,normal,2008-02-29T13:24:54.962410,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p03.t3.csv,normal
+normal_p03_t4,t4,normal,2008-02-29T13:31:02.588945,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p03.t4.csv,normal
+normal_p03_t4,t4,normal,2008-02-29T13:31:19.793652,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p03.t4.csv,normal
+normal_p03_t4,t4,normal,2008-02-29T13:31:24.120572,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p03.t4.csv,normal
+normal_p03_t4,t4,normal,2008-02-29T13:31:33.258161,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p03.t4.csv,normal
+normal_p03_t5,t5,normal,2008-02-29T13:33:05.920145,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p03.t5.csv,normal
+normal_p03_t5,t5,normal,2008-02-29T13:33:07.829667,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p03.t5.csv,normal
+normal_p03_t5,t5,normal,2008-02-29T13:33:12.167821,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p03.t5.csv,normal
+normal_p03_t5,t5,normal,2008-02-29T13:33:15.178129,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_noerror/p03.t5.csv,normal
+normal_p04_t1,t1,normal,2008-03-03T14:13:52.600541,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p04.t1.csv,normal
+normal_p04_t1,t1,normal,2008-03-03T14:13:54.456505,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p04.t1.csv,normal
+normal_p04_t2,t2,normal,2008-03-03T14:16:10.823681,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p04.t2.csv,normal
+normal_p04_t2,t2,normal,2008-03-03T14:16:11.198713,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p04.t2.csv,normal
+normal_p04_t3,t3,normal,2008-03-03T14:16:48.251751,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p04.t3.csv,normal
+normal_p04_t4,t4,normal,2008-03-03T14:23:49.779370,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p04.t4.csv,normal
+normal_p04_t4,t4,normal,2008-03-03T14:24:32.799039,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p04.t4.csv,normal
+normal_p04_t5,t5,normal,2008-03-03T14:25:58.181161,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p04.t5.csv,normal
+normal_p04_t5,t5,normal,2008-03-03T14:25:59.907016,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p04.t5.csv,normal
+normal_p04_t5,t5,normal,2008-03-03T14:31:32.994745,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p04.t5.csv,normal
+normal_p04_t5,t5,normal,2008-03-03T14:31:33.271830,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p04.t5.csv,normal
+normal_p04_t5,t5,normal,2008-03-03T14:31:33.653785,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p04.t5.csv,normal
+normal_p05_t1,t1,normal,2008-03-04T10:52:42.923966,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p05.t1.csv,normal
+normal_p05_t1,t1,normal,2008-03-04T10:52:43.285881,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p05.t1.csv,normal
+normal_p05_t2,t2,normal,2008-03-04T10:56:07.970889,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p05.t2.csv,normal
+normal_p05_t2,t2,normal,2008-03-04T10:56:09.844462,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p05.t2.csv,normal
+normal_p05_t3,t3,normal,2008-03-04T10:57:53.649726,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p05.t3.csv,normal
+normal_p05_t4,t4,normal,2008-03-04T11:07:26.496236,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p05.t4.csv,normal
+normal_p05_t4,t4,normal,2008-03-04T11:07:51.556404,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p05.t4.csv,normal
+normal_p05_t5,t5,normal,2008-03-04T11:14:18.199920,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p05.t5.csv,normal
+normal_p05_t5,t5,normal,2008-03-04T11:14:27.159548,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p05.t5.csv,normal
+normal_p06_t1,t1,normal,2008-03-04T14:09:07.592142,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p06.t1.csv,normal
+normal_p06_t1,t1,normal,2008-03-04T14:09:07.860209,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p06.t1.csv,normal
+normal_p06_t2,t2,normal,2008-03-04T14:14:38.881230,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p06.t2.csv,normal
+normal_p06_t2,t2,normal,2008-03-04T14:14:41.529547,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p06.t2.csv,normal
+normal_p06_t3,t3,normal,2008-03-04T14:15:55.891490,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p06.t3.csv,normal
+normal_p06_t4,t4,normal,2008-03-04T14:27:40.732058,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p06.t4.csv,normal
+normal_p06_t4,t4,normal,2008-03-04T14:29:02.658249,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p06.t4.csv,normal
+normal_p06_t5,t5,normal,2008-03-04T14:40:49.814550,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p06.t5.csv,normal
+normal_p06_t5,t5,normal,2008-03-04T14:41:04.123099,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p06.t5.csv,normal
+normal_p07_t1,t1,normal,2008-03-04T15:07:22.429687,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p07.t1.csv,normal
+normal_p07_t2,t2,normal,2008-03-04T15:09:41.961614,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p07.t2.csv,normal
+normal_p07_t2,t2,normal,2008-03-04T15:09:47.907999,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p07.t2.csv,normal
+normal_p07_t3,t3,normal,2008-03-04T15:10:38.468907,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p07.t3.csv,normal
+normal_p07_t4,t4,normal,2008-03-04T15:17:10.303694,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p07.t4.csv,normal
+normal_p07_t4,t4,normal,2008-03-04T15:17:35.430496,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p07.t4.csv,normal
+normal_p07_t4,t4,normal,2008-03-04T15:17:39.537390,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p07.t4.csv,normal
+normal_p07_t4,t4,normal,2008-03-04T15:17:48.343047,dining room,dining room,Move from kitchen to dining room,activity,M13,ON,adl_noerror/p07.t4.csv,normal
+normal_p07_t5,t5,normal,2008-03-04T15:18:52.283021,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p07.t5.csv,normal
+normal_p07_t5,t5,normal,2008-03-04T15:19:05.516468,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p07.t5.csv,normal
+normal_p08_t1,t1,normal,2008-03-04T16:12:51.650273,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p08.t1.csv,normal
+normal_p08_t1,t1,normal,2008-03-04T16:12:51.975182,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p08.t1.csv,normal
+normal_p08_t2,t2,normal,2008-03-04T16:15:20.690417,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p08.t2.csv,normal
+normal_p08_t2,t2,normal,2008-03-04T16:15:25.329405,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p08.t2.csv,normal
+normal_p08_t3,t3,normal,2008-03-04T16:16:15.995909,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p08.t3.csv,normal
+normal_p08_t4,t4,normal,2008-03-04T16:22:29.482851,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p08.t4.csv,normal
+normal_p08_t4,t4,normal,2008-03-04T16:23:19.466379,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p08.t4.csv,normal
+normal_p08_t4,t4,normal,2008-03-04T16:23:38.224590,kitchen,kitchen,Use kitchen sink water,activity,AD1-C,0.0830872,adl_noerror/p08.t4.csv,normal
+normal_p08_t4,t4,normal,2008-03-04T16:23:38.777313,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p08.t4.csv,normal
+normal_p08_t5,t5,normal,2008-03-04T16:24:15.759740,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p08.t5.csv,normal
+normal_p08_t5,t5,normal,2008-03-04T16:24:29.876800,kitchen,kitchen,Use burner,activity,AD1-A,2.84989,adl_noerror/p08.t5.csv,normal
+normal_p08_t5,t5,normal,2008-03-04T16:24:31.155302,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p08.t5.csv,normal
+normal_p08_t5,t5,normal,2008-03-04T16:24:33.757300,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p08.t5.csv,normal
+normal_p09_t1,t1,normal,2008-03-04T17:19:12.392100,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p09.t1.csv,normal
+normal_p09_t1,t1,normal,2008-03-04T17:19:12.623147,corridor,corridor,Move from dining room to corridor,activity,M23,ON,adl_noerror/p09.t1.csv,normal
+normal_p09_t1,t1,normal,2008-03-04T17:19:12.914991,dining room,dining room,Move from corridor to dining room,activity,M08,ON,adl_noerror/p09.t1.csv,normal
+normal_p09_t2,t2,normal,2008-03-04T17:20:52.919444,dining room,dining room,Enter dining room,activity,M15,ON,adl_noerror/p09.t2.csv,normal
+normal_p09_t2,t2,normal,2008-03-04T17:20:53.619305,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t2.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:21:21.266480,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:24:46.168189,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:06.268829,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:06.904864,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:17.741211,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:19.197853,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:21.742657,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:23.454473,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:38.221350,kitchen,kitchen,Use burner,activity,AD1-A,3.01567,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:45.313194,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:25:47.491615,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:15.553616,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:15.553616,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:21.460054,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:21.597091,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:24.644207,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:26.967616,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:42.518279,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:26:42.716303,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:27:00.788065,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:27:03.513324,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:27:03.639344,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:27:11.983025,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:31:22.796323,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t3,t3,normal,2008-03-04T17:31:54.417010,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t3.csv,normal
+normal_p09_t4,t4,normal,2008-03-04T17:32:34.966916,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p09.t4.csv,normal
+normal_p09_t4,t4,normal,2008-03-04T17:33:03.946773,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p09.t4.csv,normal
+normal_p09_t5,t5,normal,2008-03-04T17:37:58.416370,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p09.t5.csv,normal
+normal_p09_t5,t5,normal,2008-03-04T17:38:00.514573,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p09.t5.csv,normal
+normal_p10_t1,t1,normal,2008-03-04T17:57:09.605270,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p10.t1.csv,normal
+normal_p10_t2,t2,normal,2008-03-04T17:59:19.111438,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p10.t2.csv,normal
+normal_p10_t2,t2,normal,2008-03-04T17:59:21.444211,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p10.t2.csv,normal
+normal_p10_t3,t3,normal,2008-03-04T18:00:55.223593,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p10.t3.csv,normal
+normal_p10_t4,t4,normal,2008-03-04T18:07:15.264753,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p10.t4.csv,normal
+normal_p10_t4,t4,normal,2008-03-04T18:08:11.554497,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p10.t4.csv,normal
+normal_p10_t5,t5,normal,2008-03-04T18:09:37.323638,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p10.t5.csv,normal
+normal_p10_t5,t5,normal,2008-03-04T18:09:42.967021,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p10.t5.csv,normal
+normal_p11_t1,t1,normal,2008-03-06T10:46:30.397710,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p11.t1.csv,normal
+normal_p11_t2,t2,normal,2008-03-06T10:49:04.664106,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p11.t2.csv,normal
+normal_p11_t2,t2,normal,2008-03-06T10:49:11.674869,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p11.t2.csv,normal
+normal_p11_t3,t3,normal,2008-03-06T10:50:40.167867,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p11.t3.csv,normal
+normal_p11_t4,t4,normal,2008-03-06T10:59:03.319000,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p11.t4.csv,normal
+normal_p11_t4,t4,normal,2008-03-06T10:59:38.634001,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p11.t4.csv,normal
+normal_p11_t4,t4,normal,2008-03-06T10:59:42.775825,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p11.t4.csv,normal
+normal_p11_t4,t4,normal,2008-03-06T11:00:15.159175,dining room,dining room,Move from kitchen to dining room,activity,M13,ON,adl_noerror/p11.t4.csv,normal
+normal_p11_t5,t5,normal,2008-03-06T11:01:35.624100,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p11.t5.csv,normal
+normal_p11_t5,t5,normal,2008-03-06T11:01:50.537562,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p11.t5.csv,normal
+normal_p12_t1,t1,normal,2008-03-24T14:24:09.578509,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p12.t1.csv,normal
+normal_p12_t2,t2,normal,2008-03-24T14:29:30.535654,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p12.t2.csv,normal
+normal_p12_t2,t2,normal,2008-03-24T14:29:35.968185,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p12.t2.csv,normal
+normal_p12_t3,t3,normal,2008-03-24T14:30:26.865667,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p12.t3.csv,normal
+normal_p12_t4,t4,normal,2008-03-24T14:39:59.589970,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p12.t4.csv,normal
+normal_p12_t4,t4,normal,2008-03-24T14:40:28.565186,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p12.t4.csv,normal
+normal_p12_t4,t4,normal,2008-03-24T14:40:45.465200,kitchen,kitchen,Use burner,activity,AD1-A,2.85254,adl_noerror/p12.t4.csv,normal
+normal_p12_t4,t4,normal,2008-03-24T14:41:40.748841,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p12.t4.csv,normal
+normal_p12_t5,t5,normal,2008-03-24T14:41:51.437506,dining room,dining room,Enter dining room,activity,M15,ON,adl_noerror/p12.t5.csv,normal
+normal_p12_t5,t5,normal,2008-03-24T14:41:51.584510,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p12.t5.csv,normal
+normal_p13_t1,t1,normal,2008-03-26T14:23:47.347449,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p13.t1.csv,normal
+normal_p13_t1,t1,normal,2008-03-26T14:23:47.604890,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p13.t1.csv,normal
+normal_p13_t2,t2,normal,2008-03-26T14:25:41.123063,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p13.t2.csv,normal
+normal_p13_t2,t2,normal,2008-03-26T14:25:47.367358,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p13.t2.csv,normal
+normal_p13_t3,t3,normal,2008-03-26T14:26:56.365059,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p13.t3.csv,normal
+normal_p13_t4,t4,normal,2008-03-26T14:33:26.307956,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p13.t4.csv,normal
+normal_p13_t4,t4,normal,2008-03-26T14:33:51.973881,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p13.t4.csv,normal
+normal_p13_t5,t5,normal,2008-03-26T14:35:05.924773,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p13.t5.csv,normal
+normal_p13_t5,t5,normal,2008-03-26T14:35:13.981221,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p13.t5.csv,normal
+normal_p14_t1,t1,normal,2008-03-27T10:59:10.928343,dining room,dining room,Enter dining room,activity,M07,ON,adl_noerror/p14.t1.csv,normal
+normal_p14_t2,t2,normal,2008-03-27T11:01:29.365354,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p14.t2.csv,normal
+normal_p14_t2,t2,normal,2008-03-27T11:01:30.886269,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p14.t2.csv,normal
+normal_p14_t3,t3,normal,2008-03-27T11:03:06.566040,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p14.t3.csv,normal
+normal_p14_t4,t4,normal,2008-03-27T11:11:31.615540,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p14.t4.csv,normal
+normal_p14_t4,t4,normal,2008-03-27T11:11:58.251925,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p14.t4.csv,normal
+normal_p14_t4,t4,normal,2008-03-27T11:12:03.911365,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p14.t4.csv,normal
+normal_p14_t4,t4,normal,2008-03-27T11:12:08.249169,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p14.t4.csv,normal
+normal_p14_t5,t5,normal,2008-03-27T11:15:15.906079,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p14.t5.csv,normal
+normal_p14_t5,t5,normal,2008-03-27T11:15:23.789928,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p14.t5.csv,normal
+normal_p14_t5,t5,normal,2008-03-27T11:15:28.252703,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p14.t5.csv,normal
+normal_p14_t5,t5,normal,2008-03-27T11:15:34.536007,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p14.t5.csv,normal
+normal_p15_t1,t1,normal,2008-03-28T11:27:48.453567,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p15.t1.csv,normal
+normal_p15_t1,t1,normal,2008-03-28T11:27:48.453567,corridor,corridor,Move from dining room to corridor,activity,M23,ON,adl_noerror/p15.t1.csv,normal
+normal_p15_t1,t1,normal,2008-03-28T11:27:50.492971,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p15.t1.csv,normal
+normal_p15_t1,t1,normal,2008-03-28T11:27:59.382577,corridor,corridor,Move from dining room to corridor,activity,M23,ON,adl_noerror/p15.t1.csv,normal
+normal_p15_t1,t1,normal,2008-03-28T11:27:59.511619,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p15.t1.csv,normal
+normal_p15_t2,t2,normal,2008-03-28T11:30:15.188280,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p15.t2.csv,normal
+normal_p15_t2,t2,normal,2008-03-28T11:30:16.268563,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p15.t2.csv,normal
+normal_p15_t3,t3,normal,2008-03-28T11:31:26.565585,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p15.t3.csv,normal
+normal_p15_t4,t4,normal,2008-03-28T11:39:15.213010,kitchen,kitchen,Use kitchen sink water,activity,AD1-C,0.0345708,adl_noerror/p15.t4.csv,normal
+normal_p15_t4,t4,normal,2008-03-28T11:39:36.786511,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p15.t4.csv,normal
+normal_p15_t5,t5,normal,2008-03-28T11:41:12.446168,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p15.t5.csv,normal
+normal_p15_t5,t5,normal,2008-03-28T11:41:25.898238,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p15.t5.csv,normal
+normal_p16_t1,t1,normal,2008-03-28T12:30:14.361293,dining room,dining room,Enter dining room,activity,M07,ON,adl_noerror/p16.t1.csv,normal
+normal_p16_t2,t2,normal,2008-03-28T12:32:41.580755,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p16.t2.csv,normal
+normal_p16_t2,t2,normal,2008-03-28T12:32:43.214306,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p16.t2.csv,normal
+normal_p16_t3,t3,normal,2008-03-28T12:33:49.283431,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p16.t3.csv,normal
+normal_p16_t4,t4,normal,2008-03-28T12:42:08.224982,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p16.t4.csv,normal
+normal_p16_t4,t4,normal,2008-03-28T12:42:39.755434,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p16.t4.csv,normal
+normal_p16_t5,t5,normal,2008-03-28T12:48:46.195551,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p16.t5.csv,normal
+normal_p16_t5,t5,normal,2008-03-28T12:49:07.222365,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p16.t5.csv,normal
+normal_p32_t1,t1,normal,2008-04-15T17:06:19.551497,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p32.t1.csv,normal
+normal_p32_t1,t1,normal,2008-04-15T17:06:19.551497,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p32.t1.csv,normal
+normal_p32_t1,t1,normal,2008-04-15T17:06:27.520590,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p32.t1.csv,normal
+normal_p32_t1,t1,normal,2008-04-15T17:06:31.825753,dining room,dining room,Move from kitchen to dining room,activity,M13,ON,adl_noerror/p32.t1.csv,normal
+normal_p32_t2,t2,normal,2008-04-15T17:09:49.627918,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p32.t2.csv,normal
+normal_p32_t2,t2,normal,2008-04-15T17:09:51.145438,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p32.t2.csv,normal
+normal_p32_t3,t3,normal,2008-04-15T17:11:13.513923,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p32.t3.csv,normal
+normal_p32_t4,t4,normal,2008-04-15T17:19:34.568658,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p32.t4.csv,normal
+normal_p32_t4,t4,normal,2008-04-15T17:19:52.956921,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p32.t4.csv,normal
+normal_p32_t4,t4,normal,2008-04-15T17:19:56.665075,kitchen,kitchen,Move within kitchen,activity,M16,ON,adl_noerror/p32.t4.csv,normal
+normal_p32_t4,t4,normal,2008-04-15T17:20:00.872906,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p32.t4.csv,normal
+normal_p32_t5,t5,normal,2008-04-15T17:21:05.498538,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p32.t5.csv,normal
+normal_p32_t5,t5,normal,2008-04-15T17:21:17.723386,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p32.t5.csv,normal
+normal_p32_t5,t5,normal,2008-04-15T17:21:24.443826,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p32.t5.csv,normal
+normal_p32_t5,t5,normal,2008-04-15T17:21:27.772031,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p32.t5.csv,normal
+normal_p40_t1,t1,normal,2008-02-26T10:50:08.326396,dining room,dining room,Enter dining room,activity,M07,ON,adl_noerror/p40.t1.csv,normal
+normal_p40_t2,t2,normal,2008-02-26T10:52:19.476505,kitchen,kitchen,Enter kitchen,activity,M16,ON,adl_noerror/p40.t2.csv,normal
+normal_p40_t3,t3,normal,2008-02-26T10:54:01.605336,kitchen,kitchen,Take pot,activity,I07,ABSENT,adl_noerror/p40.t3.csv,normal
+normal_p40_t4,t4,normal,2008-02-26T11:00:56.483203,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p40.t4.csv,normal
+normal_p40_t4,t4,normal,2008-02-26T11:01:32.117595,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p40.t4.csv,normal
+normal_p40_t4,t4,normal,2008-02-26T11:01:37.534147,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p40.t4.csv,normal
+normal_p40_t4,t4,normal,2008-02-26T11:01:42.972649,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p40.t4.csv,normal
+normal_p40_t5,t5,normal,2008-02-26T11:03:25.847764,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p40.t5.csv,normal
+normal_p40_t5,t5,normal,2008-02-26T11:03:27.613850,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p40.t5.csv,normal
+normal_p41_t1,t1,normal,2008-02-26T16:10:50.915127,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p41.t1.csv,normal
+normal_p41_t1,t1,normal,2008-02-26T16:10:54.328247,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p41.t1.csv,normal
+normal_p41_t1,t1,normal,2008-02-26T16:10:54.562650,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p41.t1.csv,normal
+normal_p41_t1,t1,normal,2008-02-26T16:10:56.835521,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_noerror/p41.t1.csv,normal
+normal_p41_t1,t1,normal,2008-02-26T16:11:02.543989,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p41.t1.csv,normal
+normal_p41_t1,t1,normal,2008-02-26T16:11:02.620740,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p41.t1.csv,normal
+normal_p41_t1,t1,normal,2008-02-26T16:11:02.945828,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p41.t1.csv,normal
+normal_p41_t2,t2,normal,2008-02-26T16:13:54.879309,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p41.t2.csv,normal
+normal_p41_t2,t2,normal,2008-02-26T16:14:03.467618,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p41.t2.csv,normal
+normal_p41_t2,t2,normal,2008-02-26T16:14:03.807310,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p41.t2.csv,normal
+normal_p41_t2,t2,normal,2008-02-26T16:14:04.677288,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_noerror/p41.t2.csv,normal
+normal_p41_t3,t3,normal,2008-02-26T16:15:03.385921,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p41.t3.csv,normal
+normal_p41_t4,t4,normal,2008-02-26T16:21:57.925059,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p41.t4.csv,normal
+normal_p41_t4,t4,normal,2008-02-26T16:22:22.498431,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p41.t4.csv,normal
+normal_p41_t4,t4,normal,2008-02-26T16:22:26.529266,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p41.t4.csv,normal
+normal_p41_t4,t4,normal,2008-02-26T16:22:30.550273,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p41.t4.csv,normal
+normal_p41_t5,t5,normal,2008-02-26T16:23:28.503578,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p41.t5.csv,normal
+normal_p41_t5,t5,normal,2008-02-26T16:23:44.363790,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p41.t5.csv,normal
+normal_p41_t5,t5,normal,2008-02-26T16:23:52.459818,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p41.t5.csv,normal
+normal_p41_t5,t5,normal,2008-02-26T16:23:57.212101,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p41.t5.csv,normal
+normal_p42_t1,t1,normal,2008-03-07T12:06:47.469840,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p42.t1.csv,normal
+normal_p42_t1,t1,normal,2008-03-07T12:06:47.754727,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_noerror/p42.t1.csv,normal
+normal_p42_t2,t2,normal,2008-03-07T12:09:44.872797,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p42.t2.csv,normal
+normal_p42_t2,t2,normal,2008-03-07T12:09:47.789201,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p42.t2.csv,normal
+normal_p42_t3,t3,normal,2008-03-07T12:10:40.770180,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p42.t3.csv,normal
+normal_p42_t4,t4,normal,2008-03-07T12:17:22.974649,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p42.t4.csv,normal
+normal_p42_t4,t4,normal,2008-03-07T12:17:43.261848,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p42.t4.csv,normal
+normal_p42_t5,t5,normal,2008-03-07T12:19:22.137000,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p42.t5.csv,normal
+normal_p42_t5,t5,normal,2008-03-07T12:19:32.513248,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p42.t5.csv,normal
+normal_p43_t1,t1,normal,2008-03-07T12:35:16.405155,dining room,dining room,Enter dining room,activity,M01,ON,adl_noerror/p43.t1.csv,normal
+normal_p43_t1,t1,normal,2008-03-07T12:35:16.561044,corridor,corridor,Move from dining room to corridor,activity,M23,ON,adl_noerror/p43.t1.csv,normal
+normal_p43_t1,t1,normal,2008-03-07T12:35:17.491801,dining room,dining room,Move from corridor to dining room,activity,M07,ON,adl_noerror/p43.t1.csv,normal
+normal_p43_t2,t2,normal,2008-03-07T12:37:12.240660,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p43.t2.csv,normal
+normal_p43_t2,t2,normal,2008-03-07T12:37:16.564070,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p43.t2.csv,normal
+normal_p43_t2,t2,normal,2008-03-07T12:37:16.961300,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p43.t2.csv,normal
+normal_p43_t2,t2,normal,2008-03-07T12:37:17.453851,kitchen,kitchen,Move from dining room to kitchen,activity,M17,ON,adl_noerror/p43.t2.csv,normal
+normal_p43_t2,t2,normal,2008-03-07T12:37:17.763764,dining room,dining room,Move from kitchen to dining room,activity,M13,ON,adl_noerror/p43.t2.csv,normal
+normal_p43_t2,t2,normal,2008-03-07T12:37:20.213500,kitchen,kitchen,Use kitchen sink water,activity,AD1-B,0.0355865,adl_noerror/p43.t2.csv,normal
+normal_p43_t3,t3,normal,2008-03-07T12:38:07.406048,kitchen,kitchen,Enter kitchen,activity,M16,ON,adl_noerror/p43.t3.csv,normal
+normal_p43_t4,t4,normal,2008-03-07T12:42:47.439792,kitchen,kitchen,Enter kitchen,activity,M16,ON,adl_noerror/p43.t4.csv,normal
+normal_p43_t4,t4,normal,2008-03-07T12:43:08.481688,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p43.t4.csv,normal
+normal_p43_t5,t5,normal,2008-03-07T12:44:36.516320,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p43.t5.csv,normal
+normal_p43_t5,t5,normal,2008-03-07T12:44:37.408303,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p43.t5.csv,normal
+normal_p49_t1,t1,normal,2008-05-21T12:47:44.666483,dining room,dining room,Enter dining room,activity,M07,ON,adl_noerror/p49.t1.csv,normal
+normal_p49_t2,t2,normal,2008-05-21T12:49:12.800451,dining room,dining room,Return phone book,activity,I08,PRESENT,adl_noerror/p49.t2.csv,normal
+normal_p49_t2,t2,normal,2008-05-21T12:49:19.532745,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p49.t2.csv,normal
+normal_p49_t3,t3,normal,2008-05-21T12:50:19.493437,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p49.t3.csv,normal
+normal_p49_t4,t4,normal,2008-05-21T12:54:59.945460,kitchen,kitchen,Enter kitchen,activity,M18,ON,adl_noerror/p49.t4.csv,normal
+normal_p49_t4,t4,normal,2008-05-21T12:55:34.703425,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p49.t4.csv,normal
+normal_p49_t5,t5,normal,2008-05-21T12:56:40.498364,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p49.t5.csv,normal
+normal_p49_t5,t5,normal,2008-05-21T12:56:50.636113,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p49.t5.csv,normal
+normal_p49_t5,t5,normal,2008-05-21T13:00:46.930548,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p49.t5.csv,normal
+normal_p50_t1,t1,normal,2008-05-21T13:55:26.184290,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p50.t1.csv,normal
+normal_p50_t1,t1,normal,2008-05-21T13:55:26.373311,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p50.t1.csv,normal
+normal_p50_t2,t2,normal,2008-05-21T13:57:09.393326,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p50.t2.csv,normal
+normal_p50_t2,t2,normal,2008-05-21T13:57:13.805160,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p50.t2.csv,normal
+normal_p50_t3,t3,normal,2008-05-21T13:58:28.573579,kitchen,kitchen,Open kitchen cabinet,activity,D01,OPEN,adl_noerror/p50.t3.csv,normal
+normal_p50_t4,t4,normal,2008-05-21T14:04:32.461770,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p50.t4.csv,normal
+normal_p50_t4,t4,normal,2008-05-21T14:04:48.942483,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p50.t4.csv,normal
+normal_p50_t4,t4,normal,2008-05-21T14:04:48.965900,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p50.t4.csv,normal
+normal_p50_t4,t4,normal,2008-05-21T14:04:49.223533,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p50.t4.csv,normal
+normal_p50_t4,t4,normal,2008-05-21T14:05:16.253040,kitchen,kitchen,Use burner,activity,AD1-A,2.8209,adl_noerror/p50.t4.csv,normal
+normal_p50_t4,t4,normal,2008-05-21T14:05:31.543939,dining room,dining room,Move from kitchen to dining room,activity,M14,ON,adl_noerror/p50.t4.csv,normal
+normal_p50_t5,t5,normal,2008-05-21T14:09:08.522509,dining room,dining room,Enter dining room,activity,M14,ON,adl_noerror/p50.t5.csv,normal
+normal_p50_t5,t5,normal,2008-05-21T14:09:15.860280,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p50.t5.csv,normal
+normal_p51_t1,t1,normal,2008-05-21T16:31:56.885460,corridor,corridor,Enter corridor,activity,M23,ON,adl_noerror/p51.t1.csv,normal
+normal_p51_t1,t1,normal,2008-05-21T16:31:57.625259,dining room,dining room,Move from corridor to dining room,activity,M01,ON,adl_noerror/p51.t1.csv,normal
+normal_p51_t2,t2,normal,2008-05-21T16:35:11.286701,dining room,dining room,Enter dining room,activity,M15,ON,adl_noerror/p51.t2.csv,normal
+normal_p51_t2,t2,normal,2008-05-21T16:35:11.945515,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p51.t2.csv,normal
+normal_p51_t3,t3,normal,2008-05-21T16:36:12.898060,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p51.t3.csv,normal
+normal_p51_t4,t4,normal,2008-05-21T16:41:38.968873,kitchen,kitchen,Enter kitchen,activity,M17,ON,adl_noerror/p51.t4.csv,normal
+normal_p51_t4,t4,normal,2008-05-21T16:42:00.737653,dining room,dining room,Move from kitchen to dining room,activity,M15,ON,adl_noerror/p51.t4.csv,normal
+normal_p51_t5,t5,normal,2008-05-21T16:42:55.953261,dining room,dining room,Enter dining room,activity,M13,ON,adl_noerror/p51.t5.csv,normal
+normal_p51_t5,t5,normal,2008-05-21T16:43:06.322073,kitchen,kitchen,Move from dining room to kitchen,activity,M16,ON,adl_noerror/p51.t5.csv,normal

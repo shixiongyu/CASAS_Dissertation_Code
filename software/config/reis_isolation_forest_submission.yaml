@@ -1,0 +1,27 @@
+{
+  "schema": "sensor2disco.isolation-forest-evaluation.v1",
+  "dataset_config": "casas_submission.yaml",
+  "output_dir": "../outputs/reproduction/isolation_forest",
+  "random_seed": 20260811,
+  "feature_contract": {
+    "analog_delta_threshold": 0.01,
+    "elapsed_boundaries_seconds": [1, 2, 5, 10, 30, 60, 120, 300],
+    "include_task_id_one_hot": true,
+    "scaling": "min_max_fit_on_outer_normal_training_only",
+    "vocabulary": "outer_normal_training_only"
+  },
+  "isolation_forest": {
+    "n_estimators": 100,
+    "contamination": 0.03,
+    "max_samples": "auto",
+    "max_features": 1.0,
+    "bootstrap": false,
+    "n_jobs": 1
+  },
+  "outer_protocol": {
+    "folds": 5,
+    "group": "participant",
+    "training_data": "normal outer-training cases only",
+    "evaluation_labels_attached": "after prediction"
+  }
+}

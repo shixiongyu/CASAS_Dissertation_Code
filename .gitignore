@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+outputs/
+adl_noerror/*.csv
+adl_error/*.csv
+*.zip

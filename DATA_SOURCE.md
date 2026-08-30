@@ -11,7 +11,8 @@ The repository provides download instructions rather than redistributing the ori
 
 The Zenodo dataset is distributed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
 
-## Expected local structure
+## Expected local structure after data extraction
+After extracting `adl_noerror.zip` and `adl_error.zip` into the repository root, the local structure is:
 
 ```text
 CASAS_Dissertation_Code/
@@ -26,7 +27,7 @@ CASAS_Dissertation_Code/
 |     `- room_path_event_log.csv
 `- software/
 ```
-
+The `adl_noerror/` and `adl_error/` folders are created when the downloaded archives are extracted and are not included in the GitHub repository.
 The released no-error archive contains 24 participant IDs even though the Zenodo description refers to 20 participants in each dataset. The analysis follows the inventory of the files actually provided: 120 no-error files and 100 scripted error files. Each CSV must contain `date`, `time`, `sensor` and `message`. Do not rename or edit the files.
 
 ## AD1 channel mapping decision

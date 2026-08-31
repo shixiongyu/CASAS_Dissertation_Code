@@ -1,13 +1,13 @@
 # Reproducing the dissertation results
 
-These instructions regenerate the three activity-only event logs and the three held-out comparisons reported in the dissertation.
+These instructions regenerate the three activity-only event logs and the held-out evaluation results for the three methods reported in the dissertation.
 
 ## 1. Download the data
 
-Download the two archives identified in `DATA_SOURCE.md`.
+Download the two archives identified in `DATA_SOURCE.md` and extract both archives into the repository root. Each archive already contains its corresponding top-level data folder.
 
-- Extract exactly 120 no-error CSV files to `adl_noerror/`.
-- Extract exactly 100 scripted-error CSV files to `adl_error/`.
+- Confirm that `adl_noerror/` contains exactly 120 no-error CSV files.
+- Confirm that `adl_error/` contains exactly 100 scripted-error CSV files.
 - Do not rename or edit the CSV files.
 - Do not place ZIP files in the data folders.
 

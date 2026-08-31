@@ -32,4 +32,4 @@ The verified event-log snapshots contain Sensor `11,584`, Room/Action `3,166` an
 
 ## Scope
 
-The software is a reproducible research prototype for one controlled smart-apartment dataset. Formal conformance checking, clinical diagnosis, continuous monitoring and automated intervention are outside the study.
+The software is a reproducible research prototype for one controlled smart-apartment dataset. 

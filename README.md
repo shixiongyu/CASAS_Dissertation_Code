@@ -9,8 +9,7 @@ The analysis contains 220 participant-task cases: 120 normal cases and 100 scrip
 ## Repository structure
 
 - `software/`: the four-command Python interface and fixed configurations.
-- `adl_noerror/` and `adl_error/`: locations for the separately downloaded CASAS CSV files.
-- `evidence/event_logs/` contains verified activity-only Sensor, Room/Action and Room Path event-log snapshots generated from the CASAS dataset.
+- `evidence/event_logs/`: contains verified activity-only Sensor, Room/Action and Room Path event-log snapshots generated from the CASAS dataset.
 - `REPRODUCE.md`: step-by-step reproduction commands.
 - `DATA_SOURCE.md`: dataset DOI, download information and placement instructions.
 
@@ -29,7 +28,7 @@ The analysis contains 220 participant-task cases: 120 normal cases and 100 scrip
 
 All three methods use the same participant-grouped held-out folds. The process-mining analysis is descriptive and is not a third classifier.
 
-Their row counts are Sensor `11,584`, Room/Action `3,166` and Room Path `515`. They are written under `software/outputs/reproduction/`.
+The verified event-log snapshots contain Sensor `11,584`, Room/Action `3,166` and Room Path `515` rows. Reproduced outputs are written under `software/outputs/reproduction/`.
 
 ## Scope
 
